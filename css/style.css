@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	background-color: #FDF1D7;
+}
+h1 {
+	font-size: 50px;
+	margin: 40px 0;
+	font-family: 'Open Sans', sans-serif;
+	color: red;
+}
+.btn {
+	background-color: red;
+	color: white;
+}
+.btn:hover {
+	background-color: #FE4042;
+	transition: .5s;
+}
