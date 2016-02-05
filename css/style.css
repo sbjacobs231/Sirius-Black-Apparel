@@ -7,6 +7,7 @@ h1 {
 	margin: 40px 0;
 	font-family: 'Open Sans', sans-serif;
 	color: red;
+	position: relative;
 }
 .btn {
 	background-color: red;

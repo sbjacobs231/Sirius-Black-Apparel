@@ -69,3 +69,10 @@ for (i = 0; i < merchandiseArray.length; i++) {
 
 	document.getElementById('addHere').appendChild(newCol)
 }
+
+//header slide in function
+$(document).ready(function() {
+	$('h1').animate({left: '50%'});
+	$('h1').animate({left: '-50%'})
+	$('h1').animate({left: '0px'})
+});
