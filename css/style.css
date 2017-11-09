@@ -17,3 +17,11 @@ h1 {
 	background-color: #FE4042;
 	transition: .5s;
 }
+img {
+	transition: transform .5s;
+}
+img:hover {
+	transform: scale(1.15);
+	position: relative;
+	z-index: 1;
+}
